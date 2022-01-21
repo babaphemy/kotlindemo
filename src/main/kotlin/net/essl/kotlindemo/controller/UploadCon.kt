@@ -1,8 +1,6 @@
 
 import com.technipfmc.dsi.cto.entity.BomUpload
-import com.technipfmc.dsi.cto.service.BomService
 import org.springframework.http.HttpStatus
-import org.springframework.http.MediaType
 import org.springframework.web.bind.annotation.*
 import org.springframework.web.multipart.MultipartFile
 import java.util.*
